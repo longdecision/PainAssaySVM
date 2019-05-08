@@ -1,0 +1,2 @@
+flag_stimulus4pca,file4pca,file4training,Description,Trials used for calculating PCA,f_out
+cs_hp,[0],[0],Use WT for calculating pca and only  male fortraining SVM ,Cotton Swab and Heavy Pinprick ,

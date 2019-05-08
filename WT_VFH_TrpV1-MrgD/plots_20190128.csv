@@ -1,0 +1,5 @@
+flag_stimulus4pca,file4pca,file4training,Description,Trials used for calculating PCA,FigureDestination
+cs_hp,[0],[0],Use CD1 male only for calculating pca and training SVM ,Cotton Swab and Heavy Pinprick ,
+cs_hp,[1],[1],Use CD1 female only for calculating pca and training SVM ,Cotton Swab and Heavy Pinprick ,
+cs_hp,[2],[2],Use C57 male only for calculating pca and training SVM ,Cotton Swab and Heavy Pinprick ,
+cs_hp,[3],[3],Use C57 female only for calculating pca and training SVM ,Cotton Swab and Heavy Pinprick ,

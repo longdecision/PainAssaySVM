@@ -1,0 +1,143 @@
+Genotype (I.D.),Animal,Stimulus,Paw Velocity (mm/s),Paw Height (mm),Pain Score,TIME
+C57_injured,"Cage1, Animal 1",0.07 VFH,436.99,5.44,0,Baseline
+C57_injured,"Cage1, Animal 2",0.07 VFH,635.8125,4.89,1,Baseline
+C57_injured,"Cage1, Animal 4",0.07 VFH,399.05,4.4,0,Baseline
+C57_injured,"Cage2, Animal 0",0.07 VFH,604.05,5.51,0,Baseline
+C57_injured,"Cage2, Animal 1",0.07 VFH,436.15,6.65,0,Baseline
+C57_injured,"Cage2, Animal 3",0.07 VFH,767.98,8.25,0,Baseline
+C57_injured,"Cage3, Animal 0",0.07 VFH,1008.93,6.93,1,Baseline
+C57_injured,"Cage3, Animal 3",0.07 VFH,687.15,6.29,2,Baseline
+C57_injured,"Cage3, Animal 4",0.07 VFH,485.4,3.58,0,Baseline
+C57_injured,"Cage1, Animal 1",0.6 VFH,544.66,7.16,0,Baseline
+C57_injured,"Cage1, Animal 2",0.6 VFH,1243.18,4.87,4,Baseline
+C57_injured,"Cage1, Animal 4",0.6 VFH,878,4.93,0,Baseline
+C57_injured,"Cage2, Animal 0",0.6 VFH,357.38,6.45,0,Baseline
+C57_injured,"Cage2, Animal 1",0.6 VFH,372.05,9.92,1,Baseline
+C57_injured,"Cage2, Animal 3",0.6 VFH,931.13,5.28,1,Baseline
+C57_injured,"Cage3, Animal 0",0.6 VFH,978.4,8.27,1,Baseline
+C57_injured,"Cage3, Animal 3",0.6 VFH,915.66,6.47,2,Baseline
+C57_injured,"Cage3, Animal 4",0.6 VFH,743.57,5.68,1,Baseline
+C57_injured,"Cage1, Animal 1",1.4 VFH,922,9.22,0,Baseline
+C57_injured,"Cage1, Animal 2",1.4 VFH,399.05,4.4,0,Baseline
+C57_injured,"Cage1, Animal 4",1.4 VFH,1242.4,4.48,0,Baseline
+C57_injured,"Cage2, Animal 0",1.4 VFH,327.87,5.99,1,Baseline
+C57_injured,"Cage2, Animal 1",1.4 VFH,823.95,8.49,0,Baseline
+C57_injured,"Cage2, Animal 3",1.4 VFH,229.59,5.6,2,Baseline
+C57_injured,"Cage3, Animal 0",1.4 VFH,1235.6,7.37,2,Baseline
+C57_injured,"Cage3, Animal 3",1.4 VFH,481.95,3.88,0,Baseline
+C57_injured,"Cage3, Animal 4",1.4 VFH,696.13,6.95,1,Baseline
+C57_injured,"Cage1, Animal 1",0.07 VFH,918.98,2.65,2,Week 1
+C57_injured,"Cage1, Animal 2",0.07 VFH,498.57,3.98,0,Week 1
+C57_injured,"Cage1, Animal 4",0.07 VFH,1279.24,5.97,2,Week 1
+C57_injured,"Cage2, Animal 0",0.07 VFH,766.37,6.56,1,Week 1
+C57_injured,"Cage2, Animal 1",0.07 VFH,353.89,9,0,Week 1
+C57_injured,"Cage2, Animal 3",0.07 VFH,89.85,2.77,0,Week 1
+C57_injured,"Cage3, Animal 0",0.07 VFH,502.15,7.07,0,Week 1
+C57_injured,"Cage3, Animal 2",0.07 VFH,271.6333,11.7,2,Week 1
+C57_injured,"Cage3, Animal 3",0.07 VFH,912.43,7.61,2,Week 1
+C57_injured,"Cage3, Animal 4",0.07 VFH,859.8,8.13,1,Week 1
+C57_injured,"Cage1, Animal 1",0.6 VFH,529.0889,7.3311,0,Week 1
+C57_injured,"Cage1, Animal 2",0.6 VFH,559.48,5.64,3,Week 1
+C57_injured,"Cage1, Animal 4",0.6 VFH,1904.5,7.69,2,Week 1
+C57_injured,"Cage2, Animal 0",0.6 VFH,342.08,7.74,1,Week 1
+C57_injured,"Cage2, Animal 1",0.6 VFH,527.38,5.22,0,Week 1
+C57_injured,"Cage2, Animal 3",0.6 VFH,757.62,3.52,2,Week 1
+C57_injured,"Cage3, Animal 0",0.6 VFH,880.99,10.94,2,Week 1
+C57_injured,"Cage3, Animal 2",0.6 VFH,852.98,13.05,3,Week 1
+C57_injured,"Cage3, Animal 4",0.6 VFH,943.8,13.94,2,Week 1
+C57_injured,"Cage1, Animal 1",1.4 VFH,371.33,7.74,0,Week 1
+C57_injured,"Cage1, Animal 2",1.4 VFH,454.92,3.52,1,Week 1
+C57_injured,"Cage1, Animal 4",1.4 VFH,1074.65,4.5,3,Week 1
+C57_injured,"Cage2, Animal 0",1.4 VFH,1854.57,9.24,1,Week 1
+C57_injured,"Cage2, Animal 1",1.4 VFH,593.31,16.95,2,Week 1
+C57_injured,"Cage2, Animal 3",1.4 VFH,80.48,4.49,3,Week 1
+C57_injured,"Cage3, Animal 0",1.4 VFH,860.25,14.7,3,Week 1
+C57_injured,"Cage3, Animal 2",1.4 VFH,1733.94,10.25,3,Week 1
+C57_injured,"Cage3, Animal 3",1.4 VFH,469.81,10.83,2,Week 1
+C57_injured,"Cage3, Animal 4",1.4 VFH,1052.89,12.08,2,Week 1
+C57_injured,"Cage1, Animal 1",0.07 VFH,354.25,8.21,1,Week 2
+C57_injured,"Cage1, Animal 2",0.07 VFH,692.87,7.84,1,Week 2
+C57_injured,"Cage2, Animal 0",0.07 VFH,426.05,14.64,1,Week 2
+C57_injured,"Cage2, Animal 3",0.07 VFH,994.95,9.45,0,Week 2
+C57_injured,"Cage3, Animal 0",0.07 VFH,604.4,9.22,2,Week 2
+C57_injured,"Cage3, Animal 2",0.07 VFH,662.1,8.47,2,Week 2
+C57_injured,"Cage3, Animal 3",0.07 VFH,517.6,6.72,1,Week 2
+C57_injured,"Cage3, Animal 4",0.07 VFH,1473.75,9.2,4,Week 2
+C57_injured,"Cage1, Animal 1",0.6 VFH,416.53,9.27,2,Week 2
+C57_injured,"Cage1, Animal 2",0.6 VFH,729.07,8.5,1,Week 2
+C57_injured,"Cage1, Animal 4",0.6 VFH,180.26,8.37,1,Week 2
+C57_injured,"Cage2, Animal 0",0.6 VFH,277.37,6.66,2,Week 2
+C57_injured,"Cage2, Animal 1",0.6 VFH,271.77,8.93,2,Week 2
+C57_injured,"Cage3, Animal 0",0.6 VFH,744.2,6.45,2,Week 2
+C57_injured,"Cage3, Animal 2",0.6 VFH,529.4,9.11,0,Week 2
+C57_injured,"Cage3, Animal 3",0.6 VFH,337.68,6.34,0,Week 2
+C57_injured,"Cage3, Animal 4",0.6 VFH,658.92,5.33,2,Week 2
+C57_injured,"Cage1, Animal 1",1.4 VFH,581.54,5.42,1,Week 2
+C57_injured,"Cage1, Animal 2",1.4 VFH,204.93,8.56,1,Week 2
+C57_injured,"Cage1, Animal 4",1.4 VFH,194.5,8.38,0,Week 2
+C57_injured,"Cage2, Animal 0",1.4 VFH,421.03,17.44,3,Week 2
+C57_injured,"Cage2, Animal 1",1.4 VFH,1494.59,16.57,3,Week 2
+C57_injured,"Cage2, Animal 3",1.4 VFH,256.25,13.62,3,Week 2
+C57_injured,"Cage3, Animal 0",1.4 VFH,939.37,10.6,2,Week 2
+C57_injured,"Cage3, Animal 2",1.4 VFH,497,4.89,2,Week 2
+C57_injured,"Cage3, Animal 3",1.4 VFH,271.5889,12.68,3,Week 2
+C57_injured,"Cage3, Animal 4",1.4 VFH,367.38,8.67,3,Week 2
+C57_injured,"Cage1, Animal 2",0.07 VFH,711.11,6.91,2,Week 3
+C57_injured,"Cage1, Animal 4",0.07 VFH,506.07,7.58,2,Week 3
+C57_injured,"Cage2, Animal 0",0.07 VFH,579.86,7.44,2,Week 3
+C57_injured,"Cage2, Animal 1",0.07 VFH,468.5,7.81,2,Week 3
+C57_injured,"Cage2, Animal 3",0.07 VFH,129.9107,7.64,0,Week 3
+C57_injured,"Cage3, Animal 0",0.07 VFH,343.54,5.87,0,Week 3
+C57_injured,"Cage3, Animal 2",0.07 VFH,891.82,7.09,2,Week 3
+C57_injured,"Cage3, Animal 3",0.07 VFH,577.99,3.93,2,Week 3
+C57_injured,"Cage3, Animal 4",0.07 VFH,505.2,4.91,1,Week 3
+C57_injured,"Cage1, Animal 1",0.6 VFH,1120.96,17.2,3,Week 3
+C57_injured,"Cage1, Animal 2",0.6 VFH,1559.8,9.27,1,Week 3
+C57_injured,"Cage1, Animal 4",0.6 VFH,218.2,6.8,1,Week 3
+C57_injured,"Cage2, Animal 0",0.6 VFH,91.41,5.53,1,Week 3
+C57_injured,"Cage2, Animal 1",0.6 VFH,413.81,9.82,2,Week 3
+C57_injured,"Cage2, Animal 3",0.6 VFH,706.32,8.8,1,Week 3
+C57_injured,"Cage3, Animal 0",0.6 VFH,659.99,7.12,3,Week 3
+C57_injured,"Cage3, Animal 2",0.6 VFH,605.08,5.3,1,Week 3
+C57_injured,"Cage3, Animal 3",0.6 VFH,537.44,5.1,2,Week 3
+C57_injured,"Cage3, Animal 4",0.6 VFH,754.86,5.58,1,Week 3
+C57_injured,"Cage1, Animal 1",1.4 VFH,2192.65,8.18,2,Week 3
+C57_injured,"Cage1, Animal 2",1.4 VFH,1285.53,12.02,1,Week 3
+C57_injured,"Cage1, Animal 4",1.4 VFH,441.29,5.28,2,Week 3
+C57_injured,"Cage2, Animal 0",1.4 VFH,76.66,5.27,1,Week 3
+C57_injured,"Cage2, Animal 1",1.4 VFH,1491.1,12.77,1,Week 3
+C57_injured,"Cage2, Animal 3",1.4 VFH,563.98,6.3,1,Week 3
+C57_injured,"Cage3, Animal 0",1.4 VFH,659.03,6.27,3,Week 3
+C57_injured,"Cage3, Animal 2",1.4 VFH,860.69,7.48,2,Week 3
+C57_injured,"Cage3, Animal 3",1.4 VFH,772.53,7.3,2,Week 3
+C57_injured,"Cage3, Animal 4",1.4 VFH,806.85,7.55,1,Week 3
+C57_injured,"Cage1, Animal 1",0.07 VFH,172.91,5.5,0,Week 4
+C57_injured,"Cage1, Animal 2",0.07 VFH,242.08,2.9,0,Week 4
+C57_injured,"Cage1, Animal 4",0.07 VFH,1114.85,5.84,0,Week 4
+C57_injured,"Cage2, Animal 0",0.07 VFH,295.4,3.94,0,Week 4
+C57_injured,"Cage2, Animal 1",0.07 VFH,356.39,10.75,0,Week 4
+C57_injured,"Cage2, Animal 3",0.07 VFH,118.37,8.58,0,Week 4
+C57_injured,"Cage3, Animal 0",0.07 VFH,652.82,9.22,1,Week 4
+C57_injured,"Cage3, Animal 2",0.07 VFH,850.76,9.93,3,Week 4
+C57_injured,"Cage3, Animal 3",0.07 VFH,890.12,7.83,1,Week 4
+C57_injured,"Cage3, Animal 4",0.07 VFH,431.4,5.46,1,Week 4
+C57_injured,"Cage1, Animal 1",0.6 VFH,360.82,3.33,0,Week 4
+C57_injured,"Cage1, Animal 2",0.6 VFH,420.2,5.17,1,Week 4
+C57_injured,"Cage1, Animal 4",0.6 VFH,790.38,8.41,0,Week 4
+C57_injured,"Cage2, Animal 0",0.6 VFH,621,6.81,1,Week 4
+C57_injured,"Cage2, Animal 1",0.6 VFH,1057.53,15.35,3,Week 4
+C57_injured,"Cage2, Animal 3",0.6 VFH,550.35,15.05,3,Week 4
+C57_injured,"Cage3, Animal 0",0.6 VFH,1278.9,6.69,2,Week 4
+C57_injured,"Cage3, Animal 2",0.6 VFH,300,6.21,1,Week 4
+C57_injured,"Cage3, Animal 3",0.6 VFH,535.46,10.41,1,Week 4
+C57_injured,"Cage3, Animal 4",0.6 VFH,195.66,7.89,1,Week 4
+C57_injured,"Cage1, Animal 1",1.4 VFH,1120.23,8.95,2,Week 4
+C57_injured,"Cage1, Animal 2",1.4 VFH,164.53,6.54,0,Week 4
+C57_injured,"Cage1, Animal 4",1.4 VFH,901.14,11.79,1,Week 4
+C57_injured,"Cage2, Animal 0",1.4 VFH,413.34,5.22,2,Week 4
+C57_injured,"Cage2, Animal 1",1.4 VFH,511.8,13.89,2,Week 4
+C57_injured,"Cage2, Animal 3",1.4 VFH,311.66,8.28,1,Week 4
+C57_injured,"Cage3, Animal 0",1.4 VFH,899.98,10.7,1,Week 4
+C57_injured,"Cage3, Animal 2",1.4 VFH,686.38,6.21,1,Week 4
+C57_injured,"Cage3, Animal 3",1.4 VFH,451.82,9.49,1,Week 4
+C57_injured,"Cage3, Animal 4",1.4 VFH,1530.15,17.27,1,Week 4
